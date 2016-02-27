@@ -10,3 +10,5 @@ There are two implementations of the Clarifai Api
   
   * Android Device : camera-tagger
   * Google Glass : glass-camera-tagger
+
+/home/bigdata/Downloads/Screenshot_20160227-160717.png
