@@ -1,5 +1,11 @@
 # intellivision-myo
-Live augumented reality using google glass and clarifai api, smoothly controlling it with Myo armband.
+
+The First BIG Hardware Thing with ClaraiFAI.
+
+
+Live augumented reality using Google Glass and Clarifai Api, smoothly controlled by MYO armband.
+
+OK, imagine iron man working 
 
 We came up with a weekend hardware hack at Spartahacks 2016, Michigan State University.
 
@@ -14,3 +20,4 @@ There are two implementations of the Clarifai Api
   * Android Device : camera-tagger
   * Google Glass : glass-camera-tagger
 
+![alt tag](https://giphy.com/gifs/tony-stark-marveledit-iron-man-2-QaS0BZZuJSgHS)
