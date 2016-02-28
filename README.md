@@ -2,12 +2,12 @@
 
 The First BIG Hardware Thing with ClaraiFAI.
 
-Live augumented reality using Google Glass and Clarifai Api, smoothly controlled by MYO armband.
+Floating augumented reality using Google Glass and Clarifai Api, smoothly controlled by MYO armband.
 
-OK, imagine iron man working 
-![alt tag](http://media3.popsugar-assets.com/files/2013/03/10/2/192/1922283/63f134188a634d65_url-5.xxxlarge/i/Iron-Man-3-Second-Trailer.jpg) ![alt tag](http://25.media.tumblr.com/tumblr_m8gdd4zgVb1ql4atmo4_250.gif)
+OK, imagine iron man playing with words in the air -- 
+![alt tag](http://25.media.tumblr.com/tumblr_m8gdd4zgVb1ql4atmo4_250.gif)
 
-We came up with a weekend hardware hack at Spartahacks 2016, Michigan State University.
+We came up with a weekend hardware hack to make this a reality at Spartahacks 2016, Michigan State University.
 
 Harware : Google glass, Myo armband
 API : Clarifai
