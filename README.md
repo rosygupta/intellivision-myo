@@ -2,6 +2,7 @@
 
 The First BIG Hardware Thing with ClaraiFAI.
 
+![alt tag](http://media3.popsugar-assets.com/files/2013/03/10/2/192/1922283/63f134188a634d65_url-5.xxxlarge/i/Iron-Man-3-Second-Trailer.jpg)
 
 Live augumented reality using Google Glass and Clarifai Api, smoothly controlled by MYO armband.
 
