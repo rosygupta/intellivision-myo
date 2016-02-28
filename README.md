@@ -20,4 +20,4 @@ There are two implementations of the Clarifai Api
   * Android Device : camera-tagger
   * Google Glass : glass-camera-tagger
 
-![alt tag](<iframe src="//giphy.com/embed/QaS0BZZuJSgHS" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tony-stark-marveledit-iron-man-2-QaS0BZZuJSgHS">via GIPHY</a></p>)
+![alt tag](<http://25.media.tumblr.com/tumblr_m8gdd4zgVb1ql4atmo4_250.gif)
