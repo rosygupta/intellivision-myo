@@ -20,4 +20,4 @@ There are two implementations of the Clarifai Api
   * Android Device : camera-tagger
   * Google Glass : glass-camera-tagger
 
-![alt tag](<http://25.media.tumblr.com/tumblr_m8gdd4zgVb1ql4atmo4_250.gif)
+![alt tag](http://57.media.tumblr.com/4d5f398929a526778d8c990a3ae1dc89/tumblr_ng8569Xmf21sc0ffqo3_500.gif)
